@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>11 TKJ 6</title>
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        
+        <h1>List uang kas</h1>
+        <img src="tkj_6_phase_2.jpg"
+        alt="group tkj 6"
+        width="20%">
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos culpa cumque rem delectus deserunt nesciunt autem hic cum nobis deleniti laboriosam temporibus ab quas iusto perferendis, minima quia ex laudantium!</p>
+        
+        
+    </body>
+</html>
