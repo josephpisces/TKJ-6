@@ -1,20 +1,67 @@
+<!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>11 TKJ 6</title>
-        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-        <link rel="manifest" href="/site.webmanifest">
-        <link rel="stylesheet" href="https://josephpisces.github.io/TKJ-6/style.css">
-    </head>
-    <body>
-        
-        <h1>List uang kas</h1>
-        <img src="tkj_6_phase_2.jpg"
-        alt="group tkj 6"
-        width="20%">
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos culpa cumque rem delectus deserunt nesciunt autem hic cum nobis deleniti laboriosam temporibus ab quas iusto perferendis, minima quia ex laudantium!</p>
-        
-        
-    </body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Animate on scroll</title>
+
+    <style>
+      body {
+        width: 100%;
+        height: 300vh;
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        width: 100%;
+        height: 100vh;
+        line-height: 80vh;
+        text-align: center;
+        display: block;
+        font-size: 60px;
+      }
+      .view {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+      }
+      .block {
+        height: 200px;
+        width: 300px;
+        margin: 50px;
+        border: 0.5mm solid black;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+          rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+          rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+      }
+      .block:nth-child(1) {
+        background: rgb(232, 88, 67);
+      }
+
+
+      @keyframes appear {
+        from {
+          opacity: 0;
+          clip-path: inset(1% 100% 0 1);
+        }
+        to {
+          opacity: 1;
+          clip-path: inset(0 0 0 0);
+        }
+      }
+
+      .block {
+        animation: appear linear;
+        animation-timeline: view();
+        animation-range: entry 0% cover 40%;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Animate On Scroll</h1>
+    <div class="view">
+      <div class="block"></div>     
+    </div>
+  </body>
 </html>
