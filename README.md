@@ -57,6 +57,7 @@
         animation-range: entry 0% cover 40%;
       }
     </style>
+    <link href="./style.css" type="text/css" rel="stylesheet">
   </head>
   <body>
     <h1>Animate On Scroll</h1>
