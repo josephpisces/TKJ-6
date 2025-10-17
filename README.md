@@ -57,7 +57,7 @@
         animation-range: entry 0% cover 40%;
       }
     </style>
-    <link href="project bikin web list uang kas tkj 6/test/style.css" type="text/css" rel="stylesheet">
+    <link href="project bikin web list uang kas tkj 6"/"test"/"style.css" type="text/css" rel="stylesheet">
   </head>
   <body>
     <h1>Animate On Scroll</h1>
