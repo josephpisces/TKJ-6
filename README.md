@@ -1,5 +1,11 @@
-<h1> Title </h1>
-<hr>
+<!Doctype html>
+<html lang="en">
+    <head>
+   link href="./style.css" type="text/css" rel="stylesheet"
+    </head>
+    <body>
+        <h1> Title </h1>
+        <hr>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eget ultrices augue. Donec id lacinia sem, at ultricies felis. Ut feugiat quam nec eros congue, in ultrices metus ultricies. Sed sit amet lacus sed ligula mollis eleifend sed at dolor. Sed condimentum luctus eleifend. Pellentesque vulputate vehicula turpis at tincidunt. Phasellus sed velit et ipsum porttitor luctus sit amet vitae dui. Nunc ut sagittis justo, nec mollis turpis. Fusce pellentesque orci a dui ultrices pharetra. Fusce mattis faucibus vehicula. Morbi pulvinar hendrerit ipsum. Fusce bibendum id ante pharetra pretium. Aliquam aliquet enim ac leo tempor blandit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse vulputate, nisl eget viverra condimentum, urna velit pulvinar quam, eu elementum massa enim et orci. Sed ac tincidunt velit.
 
 Praesent placerat egestas dui sollicitudin molestie. Aliquam pretium tempor justo, vel posuere neque tempor id. Vivamus varius nisl lorem, vel pulvinar mi commodo sed. Fusce ac nisi quam. Curabitur accumsan ornare nibh eget luctus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sagittis enim et ipsum tempor, sed interdum ligula tristique. Pellentesque congue quam at purus euismod rhoncus. Duis porttitor quis odio non dignissim. Morbi auctor nunc nec condimentum placerat. Curabitur at efficitur purus.
@@ -10,6 +16,8 @@ Praesent posuere porttitor ante. Donec pretium, magna vel lobortis consequat, se
 
 Integer dignissim quam odio. Sed at ante non enim mollis aliquet sed in elit. Sed finibus tincidunt nibh, non consequat velit maximus a. Donec porttitor urna urna, sit amet posuere turpis ullamcorper eget. Integer auctor quis felis quis pellentesque. Praesent sagittis, nunc non ullamcorper malesuada, nulla urna ullamcorper massa, ornare rhoncus urna quam sit amet enim. Nam pharetra lectus non magna rhoncus sagittis ac a lorem. Nulla congue maximus eros, nec pretium risus rhoncus tristique. Proin tincidunt sollicitudin libero, ac tincidunt justo dapibus sodales.
 
-<hr>
+        <hr>
 
-<footer> joseppices </footer>
+    
+        <footer> joseppices </footer>
+    </body>
