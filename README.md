@@ -15,9 +15,9 @@ Integer commodo vulputate ullamcorper. Maecenas est magna, eleifend vel vehicula
 Praesent posuere porttitor ante. Donec pretium, magna vel lobortis consequat, sem neque posuere velit, ac viverra lorem ante sed leo. Quisque varius lectus quam, quis bibendum felis molestie eget. Vestibulum ullamcorper tellus et auctor ullamcorper. Nulla facilisi. Nullam at mauris fermentum enim iaculis semper. Integer at tortor sit amet nisl aliquam tincidunt. Duis porttitor sem eget libero auctor, eu volutpat augue dictum. Aenean id finibus orci. Duis quis sapien eu nisl pulvinar auctor sit amet ut tellus.
 
 Integer dignissim quam odio. Sed at ante non enim mollis aliquet sed in elit. Sed finibus tincidunt nibh, non consequat velit maximus a. Donec porttitor urna urna, sit amet posuere turpis ullamcorper eget. Integer auctor quis felis quis pellentesque. Praesent sagittis, nunc non ullamcorper malesuada, nulla urna ullamcorper massa, ornare rhoncus urna quam sit amet enim. Nam pharetra lectus non magna rhoncus sagittis ac a lorem. Nulla congue maximus eros, nec pretium risus rhoncus tristique. Proin tincidunt sollicitudin libero, ac tincidunt justo dapibus sodales.
-
         <hr>
 
     
-        <footer> joseppices </footer>
+        <footer> joseppices 
+        </footer>
     </body>
