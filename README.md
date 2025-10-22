@@ -41,7 +41,6 @@ Back to back on the turntable's back
 Spinnin' on the turn and spinnin' on the turntables
 Back to back!
 </p>
-
         <hr>
         <footer> joseppices 
         </footer>
