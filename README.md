@@ -5,15 +5,43 @@
     <body>
         <h1> Title </h1>
         <hr>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eget ultrices augue. Donec id lacinia sem, at ultricies felis. Ut feugiat quam nec eros congue, in ultrices metus ultricies. Sed sit amet lacus sed ligula mollis eleifend sed at dolor. Sed condimentum luctus eleifend. Pellentesque vulputate vehicula turpis at tincidunt. Phasellus sed velit et ipsum porttitor luctus sit amet vitae dui. Nunc ut sagittis justo, nec mollis turpis. Fusce pellentesque orci a dui ultrices pharetra. Fusce mattis faucibus vehicula. Morbi pulvinar hendrerit ipsum. Fusce bibendum id ante pharetra pretium. Aliquam aliquet enim ac leo tempor blandit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse vulputate, nisl eget viverra condimentum, urna velit pulvinar quam, eu elementum massa enim et orci. Sed ac tincidunt velit.
+<p> Sign Up
 
-Praesent placerat egestas dui sollicitudin molestie. Aliquam pretium tempor justo, vel posuere neque tempor id. Vivamus varius nisl lorem, vel pulvinar mi commodo sed. Fusce ac nisi quam. Curabitur accumsan ornare nibh eget luctus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sagittis enim et ipsum tempor, sed interdum ligula tristique. Pellentesque congue quam at purus euismod rhoncus. Duis porttitor quis odio non dignissim. Morbi auctor nunc nec condimentum placerat. Curabitur at efficitur purus.
+Back 2 Back
 
-Integer commodo vulputate ullamcorper. Maecenas est magna, eleifend vel vehicula non, congue quis arcu. Donec vestibulum nulla in rutrum pretium. In ut neque lacus. Nam erat mauris, tristique vel convallis quis, imperdiet fringilla mi. Curabitur convallis, libero vitae sagittis sagittis, ligula odio elementum ante, a ultricies lacus erat eget velit. Sed molestie ornare consectetur. Morbi volutpat lacinia nibh iaculis ultrices. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget elit molestie, lobortis libero quis, viverra dolor. Mauris sit amet libero sed orci pharetra consequat quis in leo. Etiam vel mauris tellus. Suspendisse venenatis iaculis est, eget convallis neque interdum sit amet. Praesent eget ex at sem congue mollis nec quis nibh. Suspendisse vitae maximus lorem. Phasellus suscipit risus ac faucibus sollicitudin.
+長沼英樹 (Hideki Naganuma)
 
-Praesent posuere porttitor ante. Donec pretium, magna vel lobortis consequat, sem neque posuere velit, ac viverra lorem ante sed leo. Quisque varius lectus quam, quis bibendum felis molestie eget. Vestibulum ullamcorper tellus et auctor ullamcorper. Nulla facilisi. Nullam at mauris fermentum enim iaculis semper. Integer at tortor sit amet nisl aliquam tincidunt. Duis porttitor sem eget libero auctor, eu volutpat augue dictum. Aenean id finibus orci. Duis quis sapien eu nisl pulvinar auctor sit amet ut tellus.
+Lyrics About Tracklist Comments 
 
-Integer dignissim quam odio. Sed at ante non enim mollis aliquet sed in elit. Sed finibus tincidunt nibh, non consequat velit maximus a. Donec porttitor urna urna, sit amet posuere turpis ullamcorper eget. Integer auctor quis felis quis pellentesque. Praesent sagittis, nunc non ullamcorper malesuada, nulla urna ullamcorper massa, ornare rhoncus urna quam sit amet enim. Nam pharetra lectus non magna rhoncus sagittis ac a lorem. Nulla congue maximus eros, nec pretium risus rhoncus tristique. Proin tincidunt sollicitudin libero, ac tincidunt justo dapibus sodales.
+1
+
+7.9K
+
+9
+
+See upcoming pop shows
+
+Get tickets for your favorite artists
+
+Back 2 Back Lyrics
+
+[Intro]
+Back to back and spinnin' on the back
+Back to back on the turntable's back
+Back to back and spinnin' on the back
+Back to back on the back to back
+
+[Verse 1]
+Back to back and spinnin' on the back
+Back to back on the turntable's back
+Back to back and spinnin' on the back
+On the turntable's back, on spinnin' on the back
+Back to back and spinnin' on the back
+Back to back on the turntable's back
+Spinnin' on the turn and spinnin' on the turntables
+Back to back!
+</p>
+
         <hr>
         <footer> joseppices 
         </footer>
