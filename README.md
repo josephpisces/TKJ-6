@@ -5,7 +5,7 @@
     <body>
         <h1> Title </h1>
         <hr>
-<p> Sign Up
+<pre> Sign Up
 
 Back 2 Back
 
@@ -40,7 +40,7 @@ Back to back and spinnin' on the back
 Back to back on the turntable's back
 Spinnin' on the turn and spinnin' on the turntables
 Back to back!
-</p>
+</pre>
         <hr>
         <footer> joseppices 
         </footer>
