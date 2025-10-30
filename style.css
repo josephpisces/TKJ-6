@@ -105,20 +105,20 @@ main > #main_text_atas{
 
 
 
-/*
+
 footer {
     font-size: 2vmin;
-    position: fixed;
+    
     justify-content: center;
     bottom: 0;
     width: 100%;
-    height: 3vmin;
+    height: 100%;
     background-color: red;
     color: white;
     text-align: center;
 }
 
-*/
+
 
 
 
